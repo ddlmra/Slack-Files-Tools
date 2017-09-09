@@ -1,4 +1,5 @@
-# slack-files-tools
+# Slack Files Tools [![GitHub release](https://img.shields.io/github/release/gusuraman/Slack-Files-Tools.svg)](https://github.com/gusuraman/Slack-Files-Tools/releases)
+
 Userscript to extends Slack files webpage functionalities
 
 ## Installation
@@ -6,7 +7,7 @@ Userscript to extends Slack files webpage functionalities
 	* Chrome - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome).
 	* Microsoft Edge - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=edge).
 	* Safari - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=safari).
-    * Firefox - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=firefox).
+	* Firefox - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=firefox).
 	* Opera - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=opera).
 	* Dolphin - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=dolphin).
 	* UC Browser - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb).
@@ -20,4 +21,4 @@ The script will update automatically.
 You can manually trigger an update within the Tampermonkey menu.
     
 ## Usage
-Open your slack team in browser and browse to files page (https://`linkto-your-team`/files).
+Open your slack team in browser and browse to files page (https://`link-to-your-team`/files).
